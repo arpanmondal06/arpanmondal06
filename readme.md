@@ -5,11 +5,11 @@
 <p align="left">👋 Hey there! I'm on an exhilarating journey to turn my passion for coding into impactful real-world solutions. <br><br>🚀 Every line of code I write is driven by the desire to make a meaningful difference. I thrive on challenges that allow me to create innovative solutions and bring ideas to life.<br><br>💻 I spend my days immersed in technology, exploring, learning, and refining my skills to craft solutions that solve problems and simplify complexities.<br><br>🌟 My goal is to contribute to projects that function seamlessly and leave a positive impact, whether it's enhancing user experiences or streamlining processes.<br><br>🔍 Constantly seeking new opportunities to grow and collaborate, I'm eager to connect with like-minded individuals and teams to create something extraordinary.<br><br>Let's build a better future through code!</p>
 <hr/>
 
-<div align="center">
+<div align="left">
 
 ## **🛠️ Tech Stack**
 ### **Languages & Frameworks**
-<p align="centre">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/>     
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -19,7 +19,7 @@
 </p>
 
 ### **Cloud & DevOps**
-<p align="centre">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -28,7 +28,7 @@
 </p>
 
 ### **Databases & Monitoring**
-<p align="centre">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
           
 </p>
